@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "fix/issue-1170-w10-b-015-salary-schedule-job-caps-at-50-due",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "fix/issue-1170-w10-b-015-salary-schedule-job-caps-at-50-due": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "fix/issue-1170-w10-b-015-salary-schedule-job-caps-at-50-due",
+    "origin"
+  ]
+}
